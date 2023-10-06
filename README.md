@@ -1,4 +1,3 @@
-index.html
 # projet
 on verra plus tard mais voici du texte qui ne sert a rien, environ.
 j'aime les jeux video mais c'est compliquer a faire, cela signifie pas que je vais abandonner.
