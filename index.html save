@@ -8,6 +8,6 @@
 <h1>This is my first webpage</h1>
 <p>This is my first paragraph.</p>
 <a href="/projet/convertisseur.html">convertisseur</a>
-<img src="fiat-500-rouge-rome-italie-d0d7rg.jpg" alt="Italian Trulli" style="width: 325px;height:239px;">
+<img src="fiat-500-rouge-rome-italie-d0d7rg.jpg" alt="Italian Trulli" style="width:200px;height:200px;">
 </body>
 </html>
