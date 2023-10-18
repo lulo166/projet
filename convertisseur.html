@@ -13,14 +13,14 @@
         const decimalValue = parseInt(binaryInput, 2);
         
         if (!isNaN(decimalValue)) {
-            decimalOutput.textContent = "Décimal : " + decimalValue;
+            decimalOutput.textContent = "decimal : " + decimalValue;
         } else {
-            decimalOutput.textContent = "Veuillez entrer un nombre binaire valide.";
+            decimalOutput.textContent = "Please enter a valid binary number.";
         }
     }
     function convertDecimalToBinary() {
-        const decimalInput = document.getElementById("binaryInput").value;
-        const binaryOutput = document.getElementById("decimalOutput");
+        const decimalInput = document.getElementById("decimalInput").value;
+        const binaryOutput = document.getElementById("binaryOutput");
         
         const binaryValue = parseInt(decimalInput, 2);
         
