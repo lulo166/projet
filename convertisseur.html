@@ -22,7 +22,7 @@
         const decimalInput = document.getElementById("decimalInput").value;
         const binaryOutput = document.getElementById("binaryOutput");
         
-        const binaryValue = parseInt(decimalInput, 2);
+        const binaryValue = parseInt(decimalInput, 10);
         
         if (!isNaN(binaryValue)) {
             binaryOutput.textContent = "binary : " + binaryValue;
